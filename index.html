@@ -94,6 +94,81 @@ filenames</code></pre>
 </ol>
 <pre><code><a href="https://rdrr.io/r/base/library.html">library(TCGAcm)
 vital_data &lt;- vitalParse(filenames)</a></code></pre>
+<table class="table">
+<colgroup>
+<col width="9%">
+<col width="8%">
+<col width="6%">
+<col width="6%">
+<col width="10%">
+<col width="18%">
+<col width="22%">
+<col width="16%">
+</colgroup>
+<thead><tr class="header">
+<th>bcr_patient_barcode</th>
+<th>tumor_tissue_site</th>
+<th>vital_status</th>
+<th>days_to_death</th>
+<th>days_to_last_followup</th>
+<th>new_tumor_event_after_initial_treatment</th>
+<th>days_to_new_tumor_event_after_initial_treatment</th>
+<th>days_tumor_free_till_last_followup</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>TCGA-A2-A3XY</td>
+<td>Breast</td>
+<td>Alive</td>
+<td></td>
+<td>786</td>
+<td>YES</td>
+<td>1072</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>TCGA-A6-A56B</td>
+<td>Colon</td>
+<td>Alive</td>
+<td></td>
+<td>1595</td>
+<td>YES</td>
+<td>1678</td>
+<td>NA</td>
+</tr>
+<tr class="odd">
+<td>TCGA-A8-A091</td>
+<td>Breast</td>
+<td>Alive</td>
+<td></td>
+<td>580</td>
+<td>YES</td>
+<td>243</td>
+<td>NA</td>
+</tr>
+<tr class="even">
+<td>TCGA-A8-A09C</td>
+<td>Breast</td>
+<td>Alive</td>
+<td></td>
+<td>31</td>
+<td>NA</td>
+<td>NA</td>
+<td>NA</td>
+</tr>
+<tr class="odd">
+<td>TCGA-A8-A09I</td>
+<td>Breast</td>
+<td>Alive</td>
+<td></td>
+<td>1371</td>
+<td>NO</td>
+<td>NA</td>
+<td>1371</td>
+</tr>
+</tbody>
+</table>
+<p>Note: If days_to_last_followup isn’t NA, it mean the patient is alive, so the days_to_death is NA. When new_tumor_event_after_initial_treatment is YES, days_to_new_tumor_event_after_initial_treatment will have a number, and days_tumor_free_till_last_followup is NA. When the patient new_tumor_event_after_initial_treatment or vital_status is NA, it mean the patient do not have the record of those data.</p>
 </div>
 </div>
 </div>
