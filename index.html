@@ -81,7 +81,8 @@ install_github("FanZhang9/TCGAmc")</a></code></pre>
 <h3 class="hasAnchor">
 <a href="#input-prepare" class="anchor"></a>input prepare</h3>
 <p>The only thing is to prepare the <code>filenames</code> as a input. It can contain a path <code>"data/nationwidechildrens.org_clinical.TCGA-A2-A3XY.xml"</code> or just a <code>"nationwidechildrens.org_clinical.TCGA-A2-A3XY.xml"</code> file name, but you must put it in your working directory.</p>
-<p><code>{r echo=TRUE} filenames &lt;- list.files(path = ".", pattern = "*.xml",recursive = TRUE) filenames</code></p>
+<pre><code>filenames &lt;- list.files(path = ".", pattern = "*.xml",recursive = TRUE)
+filenames</code></pre>
 </div>
 <div id="function" class="section level3">
 <h3 class="hasAnchor">
@@ -91,7 +92,8 @@ install_github("FanZhang9/TCGAmc")</a></code></pre>
 <li><p>OS This three (vital_status, days_to_death, days_to_last_followup) can use as COX survival analysis.</p></li>
 <li><p>PFS This three (new_tumor_event_after_initial_treatment, days_to_new_tumor_event_after_initial_treatment, days_tumor_free_till_last_followup) can use as COX tumor free survival analysis.</p></li>
 </ol>
-<p><code>{r echo=TRUE, warning=FALSE} library(TCGAcm) vital_data &lt;- vitalParse(filenames)</code></p>
+<pre><code><a href="https://rdrr.io/r/base/library.html">library(TCGAcm)
+vital_data &lt;- vitalParse(filenames)</a></code></pre>
 </div>
 </div>
 </div>
