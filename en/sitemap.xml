@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
+    <loc>https://fanzhang9.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/"
+                href="https://fanzhang9.github.io/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://fanzhang9.github.io/en/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>https://fanzhang9.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/categories/"
+                href="https://fanzhang9.github.io/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://fanzhang9.github.io/en/categories/"
                 />
   </url><url>
-    <loc>/en/series/</loc>
+    <loc>https://fanzhang9.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/series/"
+                href="https://fanzhang9.github.io/cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://fanzhang9.github.io/en/series/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://fanzhang9.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/tags/"
+                href="https://fanzhang9.github.io/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://fanzhang9.github.io/en/tags/"
                 />
   </url>
 </urlset>
