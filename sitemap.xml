@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://fanzhang9.github.io/cn/sitemap.xml</loc>
-    
-      <lastmod>2023-02-19T21:53:17+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://fanzhang9.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fanzhang9.github.io/tags/.vimrc/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/post/my-paper/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/post/my-paper/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/tags/plugins/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/post/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/tags/spf13-vim/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/tags/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/tags/vim/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/</loc>
+    <lastmod>2023-02-19T21:53:17+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/about/</loc>
+    <lastmod>2021-11-06T14:57:28+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/search/</loc>
+  </url><url>
+    <loc>https://fanzhang9.github.io/series/</loc>
+  </url>
+</urlset>
