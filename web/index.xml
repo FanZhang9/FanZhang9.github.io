@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webs on 钟帆哈哈族</title>
+    <link>https://fanzhang9.github.io/web/</link>
+    <description>Recent content in Webs on 钟帆哈哈族</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Mar 2023 20:18:23 +0800</lastBuildDate><atom:link href="https://fanzhang9.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New_web</title>
+      <link>https://fanzhang9.github.io/web/new_web/</link>
+      <pubDate>Thu, 09 Mar 2023 20:18:23 +0800</pubDate>
+      
+      <guid>https://fanzhang9.github.io/web/new_web/</guid>
+      <description>my paper </description>
+      <content:encoded><![CDATA[<h2 id="my-paper">my paper</h2>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
