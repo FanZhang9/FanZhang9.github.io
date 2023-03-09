@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on ExampleSite</title>
-    <link>https://examplesite.com/categories/</link>
-    <description>Recent content in Categories on ExampleSite</description>
-    <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>Categories on 钟帆哈哈族</title>
+    <link>https://fanzhang9.github.io/categories/</link>
+    <description>Recent content in Categories on 钟帆哈哈族</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Feb 2023 21:53:17 +0800</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 19 Feb 2023 21:53:17 +0800</lastBuildDate><atom:link href="https://fanzhang9.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development</title>
-      <link>https://examplesite.com/categories/development/</link>
+      <title>AD</title>
+      <link>https://fanzhang9.github.io/categories/ad/</link>
       <pubDate>Sun, 19 Feb 2023 21:53:17 +0800</pubDate>
       
-      <guid>https://examplesite.com/categories/development/</guid>
+      <guid>https://fanzhang9.github.io/categories/ad/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
-      <title>VIM</title>
-      <link>https://examplesite.com/categories/vim/</link>
+      <title>paper</title>
+      <link>https://fanzhang9.github.io/categories/paper/</link>
       <pubDate>Sun, 19 Feb 2023 21:53:17 +0800</pubDate>
       
-      <guid>https://examplesite.com/categories/vim/</guid>
+      <guid>https://fanzhang9.github.io/categories/paper/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
   </channel>
