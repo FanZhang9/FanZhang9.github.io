@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fanzhang9.github.io/post/new/</loc>
-    <lastmod>2023-03-09T20:22:42+08:00</lastmod>
+    <loc>https://fanzhang9.github.io/post/mecp2/</loc>
+    <lastmod>2023-03-09T22:08:22+08:00</lastmod>
   </url><url>
     <loc>https://fanzhang9.github.io/post/</loc>
-    <lastmod>2023-03-09T20:22:42+08:00</lastmod>
+    <lastmod>2023-03-09T22:08:22+08:00</lastmod>
   </url><url>
     <loc>https://fanzhang9.github.io/</loc>
+    <lastmod>2023-03-09T22:08:22+08:00</lastmod>
+  </url><url>
+    <loc>https://fanzhang9.github.io/post/new/</loc>
     <lastmod>2023-03-09T20:22:42+08:00</lastmod>
   </url><url>
     <loc>https://fanzhang9.github.io/web/new_web/</loc>
